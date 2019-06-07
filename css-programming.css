@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+  background-image: url(./thumb152.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.face{
+  text-align: center;
+  margin: 0;
+  color: yellow;
+  transform :rotateX(75deg);
+}
